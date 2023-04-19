@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681239132 source:d:\data structures\infixtopostfix\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
