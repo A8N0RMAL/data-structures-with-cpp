@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681262995 source:d:\data structures\linkedqueue\main.cpp
+	<iostream>
+	<cassert>
+
